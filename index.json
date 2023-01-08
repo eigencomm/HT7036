@@ -1,0 +1,19 @@
+{
+    "type":"Power",
+    "name":"HT7036",
+    "manufacturer": {
+        "vendor":"hitrendtech",
+        "homepage":"https://www.hitrendtech.com/products?id=2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/senschip/HT7036.git"
+    },
+    "version":"1.0.0",
+    "series":["HT7036","HT7038","HT7132","HT7136"],
+    "package":["QFN60","QFN48"],
+    "keywords": [
+        "LQFP144","LQFP100","BGA176",
+        "3.6V","1.8V"
+    ]
+}
